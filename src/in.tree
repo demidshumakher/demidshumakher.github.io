@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Дискретная математика"
+                 start-page="starter.md">
+    <toc-element topic="starter.md">
+        <toc-element toc-title="Карпов">
+            <toc-element toc-title="Глава 1" topic="ticketK1.md"/>
+            <toc-element toc-title="Глава 2"></toc-element>
+            <toc-element toc-title="Глава 3"></toc-element>
+            <toc-element toc-title="Глава 4"></toc-element>
+            <toc-element toc-title="Глава 5">
+                <toc-element topic="ticketK5_1.md"/>
+                <toc-element topic="ticketK5_2.md"/>
+                <toc-element topic="ticketK5_3.md"/>
+                <toc-element topic="ticketK5_4.md"/>
+                <toc-element topic="ticketK5_5.md"/>
+                <toc-element topic="ticketK5_6.md"/>
+                <toc-element topic="ticketK5_7.md"/>
+                <toc-element topic="ticketK5_8.md"/>
+                <toc-element topic="ticketK5_9.md"/>
+                <toc-element topic="ticketK5_10.md"/>
+                <toc-element topic="ticketK5_11.md"/>
+                <toc-element topic="ticketK5_12.md"/>
+                <toc-element topic="ticketK5_13.md"/>
+                <toc-element topic="ticketK5_14.md"/>
+                <toc-element topic="ticketK5_15.md"/>
+                <toc-element topic="ticketK5_16.md"/>
+                <toc-element topic="ticketK5_17.md"/>
+                <toc-element topic="ticketK5_18.md"/>
+            </toc-element>
+
+        </toc-element>
+        <toc-element toc-title="Пастор">
+            <toc-element toc-title="Глава 1" topic="ticketP1.md"/>
+            <toc-element toc-title="Глава 2"></toc-element>
+            <toc-element toc-title="Глава 3"></toc-element>
+            <toc-element toc-title="Глава 4"></toc-element>
+            <toc-element toc-title="Глава 5">
+                <toc-element topic="ticketP5_39.md"/>
+                <toc-element topic="ticketP5_40.md"/>
+                <toc-element topic="ticketP5_41.md"/>
+                <toc-element topic="ticketP5_42.md"/>
+                <toc-element topic="ticketP5_43.md"/>
+                <toc-element topic="ticketP5_44.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+</instance-profile>
